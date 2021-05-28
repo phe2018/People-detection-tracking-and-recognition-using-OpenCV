@@ -1,1 +1,4 @@
-This python script first modifies the shape of each frame in the video, then performs corner detection, and then performs optical flow tracking on the detected corners, then execute human detection and face detection in turn, and draws frames and ellipses on the image respectively in. The result after execution should be as shown in the videos.
+This python script first modifies the shape of each frame in the video, then performs corner detection, 
+and then performs optical flow tracking on the detected corners, then execute human detection and face detection in turn, 
+and draws frames and ellipses on the image respectively in. 
+The result after execution should be as shown in the videos.
