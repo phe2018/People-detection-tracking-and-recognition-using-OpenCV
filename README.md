@@ -2,7 +2,7 @@
 
 Final OpenCV based human detection,recognition and tracking Project for CA-RIS-802 Human Computer Interaction Spring 2021.
 
-Submited by: Peiyan he
+### Submitted by: Peiyan he
 
 Usage: This project contains a python script called people_detection.py, a folder named haarcascades and two test videos. The download links for the two test videos are: 
 
